@@ -26,6 +26,8 @@ Code:
 In this class of algorithms, the solution to the CGH problem (phase and/or amplitude) is directly optimized to minimize a loss function that is aimed to maximize the similarity between the desired output and the hologram that results from the modulation. These algorithms often involve an iterative application of an optimizer to gradually approach a decent solution.
 
 [NOVO-CGH](https://nicolaspegard.com/Publications/optica-NOVOCGH.pdf) | [Code](https://github.com/Waller-Lab/NOVOCGH)
+
+
 [Wringtinger holography](https://www.cs.unc.edu/~cpk/wirtinger-holography.html) | [Code](https://github.com/dongheon-yoo/Wirtinger-holography)
 
 ## Machine learning-based
