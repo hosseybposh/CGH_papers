@@ -19,6 +19,8 @@ Code:
 [MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/65979-gerchberg-saxton-algorithm) 
 [Python](https://github.com/UNC-optics/DeepCGH) | 
 [Wikipedia](https://en.wikipedia.org/wiki/Gerchberg%E2%80%93Saxton_algorithm)
+
+
 [DCGH](https://ieeexplore.ieee.org/document/9417658) | [Code](https://github.com/UNC-optics/DCGH)
 
 
@@ -35,6 +37,12 @@ In this class of algorithms, the solution to the CGH problem (phase and/or ampli
 
 ## Deep learning-based
 [HoloNet (aka DeepCGH for 2D](https://www.osapublishing.org/abstract.cfm?uri=brain-2020-BTu2C.2) | [Code](https://github.com/UNC-optics/DeepCGH)
+
+
 [DeepCGH](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-18-26636&id=437573) | [Code](https://github.com/UNC-optics/DeepCGH)
+
+
 [Neural Holography](https://www.computationalimaging.org/publications/neuralholography/) | [Code](https://github.com/computational-imaging/neural-holography)
+
+
 [Tensor Holography](http://cgh.csail.mit.edu/) | [Code](https://github.com/liangs111/tensor_holography)
