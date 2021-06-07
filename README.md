@@ -24,6 +24,8 @@ Code:
 [DCGH](https://ieeexplore.ieee.org/document/9417658) | [Code](https://github.com/UNC-optics/DCGH)
 
 
+
+
 ## Optimization-based
 In this class of algorithms, the solution to the CGH problem (phase and/or amplitude) is directly optimized to minimize a loss function that is aimed to maximize the similarity between the desired output and the hologram that results from the modulation. These algorithms often involve an iterative application of an optimizer to gradually approach a decent solution.
 
@@ -36,8 +38,8 @@ In this class of algorithms, the solution to the CGH problem (phase and/or ampli
 [Michelson Holography](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-2-143&id=446984)
 
 
+[Multi-depth hologram generation using stochastic gradient descent algorithm with complex loss function](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-10-15089&id=450644)
 
-##  learning-based
 
 
 ## Machine/Deep learning-based
@@ -79,5 +81,5 @@ In this class of algorithms, the solution to the CGH problem (phase and/or ampli
 
 [Machine learning assisted holography](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11731/1173103/Machine-learning-assisted-holography/10.1117/12.2585836.full)
 
+[Deep learning in holography](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11703/117030W/Deep-learning-in-holography/10.1117/12.2582645.full)
 
-[Multi-depth hologram generation using stochastic gradient descent algorithm with complex loss function](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-10-15089&id=450644)
