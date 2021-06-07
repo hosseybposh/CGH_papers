@@ -32,11 +32,16 @@ In this class of algorithms, the solution to the CGH problem (phase and/or ampli
 
 [Wringtinger holography](https://www.cs.unc.edu/~cpk/wirtinger-holography.html) | [Code](https://github.com/dongheon-yoo/Wirtinger-holography)
 
-## Machine learning-based
-[Phase retrieval with sparse phase constraint](https://arxiv.org/abs/1804.01878)
 
-## Deep learning-based
-[HoloNet (aka DeepCGH for 2D](https://www.osapublishing.org/abstract.cfm?uri=brain-2020-BTu2C.2) | [Code](https://github.com/UNC-optics/DeepCGH)
+[Michelson Holography](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-8-2-143&id=446984)
+
+
+
+##  learning-based
+
+
+## Machine/Deep learning-based
+[DeepCGH for 2D (aka HoloNet)](https://www.osapublishing.org/abstract.cfm?uri=brain-2020-BTu2C.2) | [Code](https://github.com/UNC-optics/DeepCGH)
 
 
 [DeepCGH](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-28-18-26636&id=437573) | [Code](https://github.com/UNC-optics/DeepCGH)
@@ -46,3 +51,33 @@ In this class of algorithms, the solution to the CGH problem (phase and/or ampli
 
 
 [Tensor Holography](http://cgh.csail.mit.edu/) | [Code](https://github.com/liangs111/tensor_holography)
+
+
+[GAN-Holo](https://www.hindawi.com/journals/complexity/2021/6662161/)
+
+
+[3D-DGH](https://www.osapublishing.org/ao/fulltext.cfm?uri=ao-60-4-A323&id=446964)
+
+
+[LRGS](https://openreview.net/pdf?id=3b76QBOlYW)
+
+
+[Phase retrieval with sparse phase constraint](https://arxiv.org/abs/1804.01878)
+
+
+[Holo-encoder CGH](https://www.osapublishing.org/ol/upcoming_pdf.cfm?id=425485)
+
+
+[Deep learning for hologram generation](https://www.repository.cam.ac.uk/handle/1810/319379)
+
+
+[Comprehensive deep learning model for optical holography](https://arxiv.org/abs/2105.13060)
+
+
+[Algorithmic considerations for complex light](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11701/1170116/Algorithmic-considerations-for-complex-light/10.1117/12.2583505.full)
+
+
+[Machine learning assisted holography](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11731/1173103/Machine-learning-assisted-holography/10.1117/12.2585836.full)
+
+
+[Multi-depth hologram generation using stochastic gradient descent algorithm with complex loss function](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-10-15089&id=450644)
