@@ -9,6 +9,9 @@ Each section will begin with a brief description of the class of algorithms disc
 If you want your paper to be featured or have a correction, please create an issue. If you find this repo useful, please hit the start button.
 
 Enjoy!
+----------------------
+**UPDATE:**
+We have an open source libraries based on [TensorFlow](https://github.com/UNC-optics/LightFlow) and [Jax](https://github.com/TuragaLab/chromatix) for differentiable and modular simulation of wave optics. It can be easily used for all sorts of experiments and simulations in optics and computer generated holography. You're very welcome to contribute or create issues if you wanna see something added to either library.
 
 --------------------------------------
 ## Iterative Techniques
