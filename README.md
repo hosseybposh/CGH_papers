@@ -8,10 +8,13 @@ This repository is meant to provie a comprehensive list of papers and algorithms
 Each section will begin with a brief description of the class of algorithms discussed, followed by a list of papers and their code/tutorials/etc.
 If you want your paper to be featured or have a correction, please create an issue. If you find this repo useful, please hit the start button.
 
-Enjoy!
 ----------------------
-**UPDATE:**
-We have an open source libraries based on [TensorFlow](https://github.com/UNC-optics/LightFlow) and [Jax](https://github.com/TuragaLab/chromatix) for differentiable and modular simulation of wave optics. It can be easily used for all sorts of experiments and simulations in optics and computer generated holography. You're very welcome to contribute or create issues if you wanna see something added to either library.
+## Simulation tool
+A key component of CGH algorithms is the forward and backward models we use to simulate light propagation. If you're getting started with this topic. In the following section I will list some of the best toolboxes out there:
+[Chromatix](https://chromatix.readthedocs.io/en/latest/) | [Code and installation](https://github.com/TuragaLab/chromatix)
+This is a very comprehensive Jax-based package. Picking up Jax can be a bit of a challenge but guaranteed to be worth it. This package follows Flax's logic of defining modules. VERY ADDICTIVE!
+[LightFlow](https://github.com/UNC-optics/LightFlow) | [Code and installation](https://github.com/UNC-optics/LightFlow)
+A comprehensive package, specififcally tailored to CGH applications. This package follows the tf.Keras logic and is based on TensorFlow. As the main author of LightFlow, and a contributor to Chromatix, I suggest getting started with Chromatix for advanced applications.
 
 --------------------------------------
 ## Iterative Techniques
